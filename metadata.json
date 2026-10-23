@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Smart weather intelligence app featuring real-time city lookup, 7-day forecast cards, dynamic temperature charts, and daily planning recommendations powered by Open-Meteo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
